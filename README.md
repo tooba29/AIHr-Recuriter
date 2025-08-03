@@ -251,11 +251,9 @@ For issues and questions:
 - Ensure file contains valid data
 
 ### API Key Setup
-1. Get your OpenAI API key from [OpenAI Platform](https://platform.openai.com/api-keys)
-2. Copy `env.example` to `.env` in the backend directory
+1. Get your OpenAI API key
+2. `.env` in the backend directory
 3. Replace `your_openai_api_key_here` with your actual API key
 4. Restart the backend server
 
 ---
-
-Built with ❤️ using FastAPI, React, and OpenAI GPT-4 
