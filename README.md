@@ -220,10 +220,6 @@ The application handles multilingual input through GPT-4's natural language proc
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🆘 Support
 
 For issues and questions:
